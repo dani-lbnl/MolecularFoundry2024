@@ -9,14 +9,12 @@ This tutorial offers a concise overview of computer vision principles, specifica
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/bldap/blob/main/minidata/leafVideo.gif" width="300">
+    <td><img src="https://github.com/dani-lbnl/MolecularFoundry2024/blob/main/viz3d.gif" width="300">
     </td>
     <td>
      <p>
       Title: Image Analysis for Volumetric Data 
-      <li> Google Colaboratory: <a href='https://colab.research.google.com/drive/1OkoYEVa7O3jA8oLcLIXDeX5pSRPTef2d?usp=sharing'>[Colab] </a>
-      <li> Colab into pdf:  <a href='https://github.com/dani-lbnl/bldap/blob/main/BLDAP_plants_01.ipynb%20-%20Colab.pdf'>[PDF]</a>
-      <li> Slides:  <a href='https://github.com/dani-lbnl/bldap/blob/main/ECOFAB%20-%20Image%20Analysis%2C%20Machine%20Learning.pdf'>[SLIDES]</a>
+      <li> Google Colaboratory: <a href='https://github.com/dani-lbnl/MolecularFoundry2024/blob/main/2024MolecularFoundry_Analysis_Viz.ipynb'>[Colab] </a>     
       </td>
  </tr>
 </table>
